@@ -64,7 +64,7 @@ const CONFIG = {
 			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
-			id: '3',
+			id: '5',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
